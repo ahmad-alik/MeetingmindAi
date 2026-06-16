@@ -1,0 +1,20 @@
+# Frontend
+frontend/meetingmind-frontend/node_modules/
+frontend/meetingmind-frontend/dist/
+
+# Backend
+backend/node_modules/
+
+# Angular
+.angular/
+
+# Environment files
+.env
+.env.*
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
